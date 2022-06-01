@@ -3,7 +3,7 @@
   "version": "1.0",
   "name": "Greeting workflow",
   "expressionLang": "jsonpath",
-  "description": "JSON based greeting workflow",
+  "description": "JSASON based greeting workflow",
   "start": "HandleNewGreet",
   "functions": [
     {
